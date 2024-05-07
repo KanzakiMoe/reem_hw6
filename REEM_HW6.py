@@ -1,5 +1,5 @@
 # R12541218 ZHANG ZHIYANG 
-# Source code available at github.com/KanzakiMoe
+# Source code available at https://github.com/KanzakiMoe/reem_hw6
 
 '''
 This program will roughly simulate the concentration of four algae groups in a lake dynamically,
